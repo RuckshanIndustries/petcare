@@ -286,7 +286,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   width: double.infinity,
                   child: ElevatedButton(
                     onPressed: _loginWithEmail,
-                    child: Text('LOGIN'),
+                    child: Text('LOGIN '),
                     style: ElevatedButton.styleFrom(
                       backgroundColor: Colors.green,
                       foregroundColor: Colors.white,
